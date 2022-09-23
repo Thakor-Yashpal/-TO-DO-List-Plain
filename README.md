@@ -6,4 +6,4 @@ You’ll beef up your skills at coding interactive lists, which lets users add, 
               
                 
                  
-                           output ![Screenshot 2022-09-24 045420](https://user-images.githubusercontent.com/75574310/192068933-293421f5-ee60-4f24-9835-ce71f21e7f66.png)
+                           output !
